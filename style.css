@@ -1,0 +1,49 @@
+body{
+  font-family: sans-serif;
+  background:url(https://learn.logikaschool.com/uploads/student/5340361/68205d0d9202a.jpg);
+  color:white;
+  }
+
+p{
+  Font-size:30px;
+  color:white;
+}
+
+h1{
+  text-align:center;
+}
+
+p, main{
+  Font-size:20px;
+}
+
+img, main{
+  height:300px;
+}
+
+nav{
+  text-align: center;
+  margin: 10px 0px; 
+}
+
+nav a {
+   padding-right: 60px;
+   color: black;
+   text-decoration: none;
+}
+
+h5{
+  Font-size:25px;
+}
+
+h4{
+  Font-size:25px;
+}
+
+h3{
+  Font-size:25px;
+}
+
+h2{
+  font-size:25px;
+}
